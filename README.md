@@ -1,6 +1,6 @@
 # Análise de Dados do FIES 2021 - UFRPE
 
-![UFRPE Logo](https://www.ufrpe.br/sites/ufrpe.br/files/logo_1.png)
+![UFRPE Logo](https://www.ufrpe.br/sites/www.ufrpe.br/files/Logo%20UFRPE%20com%20texto_2.png)
 
 Projeto de análise de dados do Fundo de Financiamento Estudantil (FIES) referente ao primeiro semestre de 2021, desenvolvido como atividade da Especialização em Tomada de Decisão Baseada em Evidências da UFRPE.
 
